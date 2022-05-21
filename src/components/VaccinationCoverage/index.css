@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.bar-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.bar-title {
+  align-self: flex-start;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #94a3b8;
+  font-family: 'Roboto';
+}
